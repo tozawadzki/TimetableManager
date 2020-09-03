@@ -1,0 +1,10 @@
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.deps.json
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.runtimeconfig.json
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.runtimeconfig.dev.json
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.dll
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.pdb
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\obj\Debug\netcoreapp3.1\TimetableManager.Repositories.AssemblyInfoInputs.cache
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\obj\Debug\netcoreapp3.1\TimetableManager.Repositories.AssemblyInfo.cs
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\obj\Debug\netcoreapp3.1\TimetableManager.Repositories.dll
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\obj\Debug\netcoreapp3.1\TimetableManager.Repositories.pdb
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Repositories\obj\Debug\netcoreapp3.1\TimetableManager.Repositories.csprojAssemblyReference.cache

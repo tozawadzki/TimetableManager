@@ -1,0 +1,11 @@
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\bin\Debug\netcoreapp3.1\TimetableManager.Helpers.deps.json
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\bin\Debug\netcoreapp3.1\TimetableManager.Helpers.dll
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\bin\Debug\netcoreapp3.1\TimetableManager.Helpers.pdb
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.dll
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\bin\Debug\netcoreapp3.1\TimetableManager.Repositories.pdb
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.csprojAssemblyReference.cache
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.AssemblyInfoInputs.cache
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.AssemblyInfo.cs
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.csproj.CopyComplete
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.dll
+D:\Repos\TimetableManager\Backend\TimetableManager\TimetableManager.Services\obj\Debug\netcoreapp3.1\TimetableManager.Helpers.pdb
